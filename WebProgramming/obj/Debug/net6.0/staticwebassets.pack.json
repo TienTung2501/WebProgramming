@@ -1,0 +1,605 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebProgramming.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebProgramming.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\animate.css",
+      "PackagePath": "staticwebassets\\css\\animate.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\fontawesome-stars.css",
+      "PackagePath": "staticwebassets\\css\\fontawesome-stars.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\helper.css",
+      "PackagePath": "staticwebassets\\css\\helper.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\css\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "PackagePath": "staticwebassets\\css\\material-design-iconic-font.min.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\meanmenu.css",
+      "PackagePath": "staticwebassets\\css\\meanmenu.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\css\\nice-select.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\css\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\css\\venobox.css",
+      "PackagePath": "staticwebassets\\css\\venobox.css"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.eot"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.svg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.ttf"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfont3e6e.woff2"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\fonts\\fontawesome-webfontd41d.eot"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\about-us\\icon\\1.png",
+      "PackagePath": "staticwebassets\\images\\about-us\\icon\\1.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\about-us\\icon\\2.png",
+      "PackagePath": "staticwebassets\\images\\about-us\\icon\\2.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\about-us\\icon\\3.png",
+      "PackagePath": "staticwebassets\\images\\about-us\\icon\\3.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\about-us\\icon\\4.png",
+      "PackagePath": "staticwebassets\\images\\about-us\\icon\\4.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\1_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1_1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\1_2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1_2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\1_3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1_3.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\1_4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1_4.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\1_5.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\1_5.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\2_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2_1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\2_2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2_2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\2_3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2_3.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\2_4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2_4.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\2_5.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2_5.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\2_6.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\2_6.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\3_1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\3_1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\3_2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\3_2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\banner\\featured-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\banner\\featured-banner.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\bg-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\bg-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\bg-banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\blog-banner\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-banner\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\blog-banner\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-banner\\2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\blog-banner\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-banner\\3.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\blog-banner\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-banner\\5.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\blog-banner\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-banner\\6.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\blog-banner\\bg-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-banner\\bg-banner.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\blog-banner\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-banner\\large-size\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\blog-banner\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-banner\\large-size\\2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\blog-banner\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-banner\\large-size\\3.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\featured-product\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-product\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\featured-product\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-product\\2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\featured-product\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-product\\3.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\featured-product\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-product\\4.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\featured-product\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-product\\5.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\featured-product\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\featured-product\\6.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\menu\\flag-icon\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\flag-icon\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\menu\\flag-icon\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\flag-icon\\2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\menu\\li-bg-menu.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\li-bg-menu.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\menu\\logo\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\logo\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\menu\\logo\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\menu\\logo\\2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\payment\\1.png",
+      "PackagePath": "staticwebassets\\images\\payment\\1.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product-details\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product-details\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product-details\\admin.png",
+      "PackagePath": "staticwebassets\\images\\product-details\\admin.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product-details\\user.png",
+      "PackagePath": "staticwebassets\\images\\product-details\\user.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\10.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\11.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\12.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\13.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\13.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\3.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\4.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\5.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\6.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\7.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\8.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\large-size\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\large-size\\9.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\small-size\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\small-size\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\small-size\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\3.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\small-size\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\4.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\small-size\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\5.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\product\\small-size\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\small-size\\6.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\shipping-icon\\1.png",
+      "PackagePath": "staticwebassets\\images\\shipping-icon\\1.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\shipping-icon\\2.png",
+      "PackagePath": "staticwebassets\\images\\shipping-icon\\2.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\shipping-icon\\3.png",
+      "PackagePath": "staticwebassets\\images\\shipping-icon\\3.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\shipping-icon\\4.png",
+      "PackagePath": "staticwebassets\\images\\shipping-icon\\4.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\10.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\10.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\11.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\11.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\12.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\12.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\2.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\3.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\4.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\4.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\5.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\5.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\6.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\6.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\7.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\7.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\8.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\8.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\slider\\9.jpg",
+      "PackagePath": "staticwebassets\\images\\slider\\9.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\static-top\\1.jpg",
+      "PackagePath": "staticwebassets\\images\\static-top\\1.jpg"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\team\\1.png",
+      "PackagePath": "staticwebassets\\images\\team\\1.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\team\\2.png",
+      "PackagePath": "staticwebassets\\images\\team\\2.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\team\\3.png",
+      "PackagePath": "staticwebassets\\images\\team\\3.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\images\\team\\4.png",
+      "PackagePath": "staticwebassets\\images\\team\\4.png"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\ajax-mail.js",
+      "PackagePath": "staticwebassets\\js\\ajax-mail.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\jquery.barrating.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.barrating.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\jquery.counterup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.counterup.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\jquery.meanmenu.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.meanmenu.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\jquery.mixitup.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mixitup.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\scrollUp.min.js",
+      "PackagePath": "staticwebassets\\js\\scrollUp.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\jquery-1.12.4.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\modernizr-2.8.3.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\venobox.min.js",
+      "PackagePath": "staticwebassets\\js\\venobox.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\js\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Bai_Giang_Cac_Mon\\Ki1_Nam3\\LTWeb\\WebProgramming\\WebProgramming\\wwwroot\\js\\wow.min.js",
+      "PackagePath": "staticwebassets\\js\\wow.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebProgramming.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebProgramming.props",
+      "PackagePath": "build\\WebProgramming.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebProgramming.props",
+      "PackagePath": "buildMultiTargeting\\WebProgramming.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebProgramming.props",
+      "PackagePath": "buildTransitive\\WebProgramming.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
